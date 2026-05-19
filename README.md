@@ -80,3 +80,10 @@ some of the built in data structures taught over the course of the previous two 
 In situations where you are given a query with no results, catch the corresponding Exception, print
 an appropriate error message, and reprompt the user with the menu without generating any other
 screen output or output file.
+
+## Deliverables
+Please submit three source files:
+1. FacultyMember.java which contains only your code for the FacultyMember class.
+2. FacultyList.java which contains only your code for the FacultyList class.
+3. FacultyData.java which contains a main method (and possibly other methods) which runs your
+whole application. This main method should instantiate a single FacultyMember object.
